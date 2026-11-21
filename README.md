@@ -1,4 +1,4 @@
-Here's the rewrite in first person, the way you'd explain it in a viva, interview, or README:
+
 
 ---
 
